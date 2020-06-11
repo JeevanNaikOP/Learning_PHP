@@ -1,5 +1,5 @@
 <?php
-$time=time()
+$time=time();
 echo $time;
 setcookie('student','mark',$time+10);
 ?>
