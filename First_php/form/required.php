@@ -85,7 +85,7 @@ echo $website;
 echo "<br>";
 echo $comment;
 echo "<br>";
-echo $gender;
+echo $gender
 ?>
 
 </body>
