@@ -17,4 +17,4 @@ echo $int_cast;
 ?>  
 
 </body>
-</html
+</html>
