@@ -5,7 +5,7 @@ if(($_POST["username"]==="mark")&&($_POST["password"]=="pass"))
 }
 else
 {
-	echo "not correct";
+	echo "not correct"
 }
 
 
