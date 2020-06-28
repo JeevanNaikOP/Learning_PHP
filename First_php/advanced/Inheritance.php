@@ -21,7 +21,7 @@ class Strawberry extends Fruit {
   }
 }
 
-$strawberry = new Strawberry("Strawberry", "red");
+$strawberry = new Strawberry("Strawberry", "red")
 $strawberry->message();
 $strawberry->intro();
 ?>
